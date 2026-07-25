@@ -1,0 +1,10 @@
+[project]
+name = "bilingual-agentic-tax-advisor"
+version = "1.0.0"
+description = "A synthetic bilingual tax workflow reference with citations and confirmation gates"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 120
+
